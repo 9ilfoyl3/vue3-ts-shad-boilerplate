@@ -28,7 +28,7 @@ A modern frontend boilerplate built with Vue 3, TypeScript, Tailwind CSS, and Sh
 1. Clone the repository:
 
 ```bash
-git clone https://your-repository-url/vue3-ts-boilerplate.git
+git clone https://github.com/9ilfoyl3/vue3-ts-shad-boilerplate.git
 cd vue3-ts-boilerplate
 ```
 

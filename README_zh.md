@@ -28,7 +28,7 @@
 1. 克隆仓库：
 
 ```bash
-git clone https://your-repository-url/vue3-ts-boilerplate.git
+git clone https://github.com/9ilfoyl3/vue3-ts-shad-boilerplate.git
 cd vue3-ts-boilerplate
 ```
 
