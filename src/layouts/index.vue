@@ -5,7 +5,7 @@ import Header from './Header.vue'
 <template>
   <div class="flex min-h-screen flex-col">
     <Header />
-    <main class="flex-1 container py-6">
+    <main class="flex-1 container max-w-screen-2xl">
       <router-view />
     </main>
   </div>
